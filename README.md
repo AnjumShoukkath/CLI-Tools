@@ -5,9 +5,9 @@ It has two main features:
 - **Web Scraper** – fetch and display all visible text from a given URL
 
 # To run the file
- `pip install -r requirements.txt`
- `python main.py <command> [options]`
- `python main.py <command> --help`
+ - `pip install -r requirements.txt`
+ - `python main.py <command> [options]`
+ - `python main.py <command> --help`
 
  ## Calculator
  ```
