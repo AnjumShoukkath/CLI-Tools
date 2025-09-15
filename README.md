@@ -1,8 +1,8 @@
 # CLI Calculator & Web Scraper Tool
 This is a simple Python CLI application built with Typer.
 It has two main features:
-    - **Calculator** – perform basic arithmetic (add, subtract, multiply, divide)
-    - **Web Scraper** – fetch and display all visible text from a given URL
+- **Calculator** – perform basic arithmetic (add, subtract, multiply, divide)
+- **Web Scraper** – fetch and display all visible text from a given URL
 
 # To run the file
  `pip install -r requirements.txt`
